@@ -1,2 +1,2 @@
 # Ansible
-# Simple ansible playbooks
+Simple ansible playbooks
